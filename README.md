@@ -51,12 +51,3 @@ lib
          │──product_card.dart
          └──title_text.dart
 ```
-
-
-
-> You can also nominate me for Github Star developer program
-> https://stars.github.com/nominate
-
-## Visitors Count
-
-<img align="left" src = "https://profile-counter.glitch.me/flutter_ecommerce_app/count.svg" alt ="Loading">
